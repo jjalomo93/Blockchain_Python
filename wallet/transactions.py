@@ -33,7 +33,7 @@ create_tx(BTCTEST,btctest_acc,"moo8GpmfFJGtZF7VS3kFZy6UjPNgrfWxgC", 0.001)
 send_tx(BTCTEST,btc_acc,"moo8GpmfFJGtZF7VS3kFZy6UjPNgrfWxgC", 0.001)
 
 # Create transaction - ETH
-create_tx(ETH,eth_acc,"0x1eb01c5AB82731bcbd0bf5d2d459F55C34212FFa", 100)
+create_tx(ETH,eth_acc,"0x1eb01c5AB82731bcbd0bf5d2d459F55C34212FFa", 1000)
 
 # Send transaction - ETH
 send_tx(ETH, eth_acc,"0x1eb01c5AB82731bcbd0bf5d2d459F55C34212FFa", 1000)
